@@ -1,0 +1,3161 @@
+/* D-首頁_travel */
+
+position: relative;
+width: 1200px;
+height: 800px;
+
+background: #FFFFFF;
+
+
+/* bg */
+
+position: absolute;
+width: 1307.16px;
+height: 640px;
+left: -33px;
+top: 160px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 1200px;
+height: 640px;
+left: 0px;
+top: 160px;
+
+background: #F2C719;
+
+
+/* bg-wave-w */
+
+position: absolute;
+width: 1307.16px;
+height: 450.18px;
+left: -33px;
+top: 303px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -2.75%;
+right: 79.32%;
+top: 87.75%;
+bottom: 5.85%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.75%;
+right: 79.32%;
+top: 80.62%;
+bottom: 12.98%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.75%;
+right: 79.32%;
+top: 73.5%;
+bottom: 20.1%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.75%;
+right: 79.32%;
+top: 66.38%;
+bottom: 27.23%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.75%;
+right: 79.32%;
+top: 59.25%;
+bottom: 34.35%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: -2.75%;
+right: 79.32%;
+top: 52.12%;
+bottom: 41.48%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.75%;
+right: -6.18%;
+top: 80.38%;
+bottom: 13.23%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.75%;
+right: -6.18%;
+top: 73.25%;
+bottom: 20.35%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.75%;
+right: -6.18%;
+top: 66.12%;
+bottom: 27.48%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 61%;
+right: 15.57%;
+top: 52.12%;
+bottom: 41.48%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 61%;
+right: 15.57%;
+top: 45%;
+bottom: 48.6%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 61%;
+right: 15.57%;
+top: 37.88%;
+bottom: 55.73%;
+
+border: 1px solid #FFFFFF;
+
+
+/* T1 */
+
+position: absolute;
+width: 830px;
+height: 250px;
+left: 290px;
+top: 200px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 250px;
+height: 830px;
+left: 1120px;
+top: 200px;
+
+background: #FFFFFF;
+border-radius: 20px;
+transform: rotate(90deg);
+
+
+/* Mask Group */
+
+position: absolute;
+width: 300px;
+height: 220px;
+left: 310px;
+top: 215px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 220px;
+height: 300px;
+left: 610px;
+top: 215px;
+
+background: #F2D41A;
+border-radius: 20px;
+transform: rotate(90deg);
+
+
+/* 下載 1 */
+
+position: absolute;
+width: 333px;
+height: 221px;
+left: 290px;
+top: 214px;
+
+background: url(下載.jpg);
+
+
+/* 分類＃ */
+
+position: absolute;
+width: 166px;
+height: 25px;
+left: 428px;
+top: 398px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 80px;
+height: 25px;
+left: 514px;
+top: 398px;
+
+background: #C6A623;
+border: 1px solid #C6A623;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 全日開放 */
+
+position: absolute;
+width: 59.4px;
+height: 15.58px;
+left: 524px;
+top: 403px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 80px;
+height: 25px;
+left: 428px;
+top: 398px;
+
+background: #C6A623;
+border: 1px solid #C6A623;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 全日開放 */
+
+position: absolute;
+width: 59.4px;
+height: 15.58px;
+left: 438px;
+top: 403px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 454px;
+height: 188px;
+left: 630px;
+top: 233px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 451px;
+height: 35px;
+left: 630px;
+top: 353px;
+
+
+
+/* 110台北市信義區信義路五段7號 */
+
+position: absolute;
+width: 421px;
+height: 35px;
+left: 660px;
+top: 353px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 160%;
+/* or 22px */
+display: flex;
+align-items: center;
+
+color: #C2A014;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 20px;
+height: 27.3px;
+left: 630px;
+top: 357px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.5%;
+right: 45.83%;
+top: 44.62%;
+bottom: 51.96%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.95%;
+right: 46.28%;
+top: 45.36%;
+bottom: 53.48%;
+
+border: 2px solid #000000;
+
+
+/* Group 44 */
+
+position: absolute;
+width: 394px;
+height: 20px;
+left: 630px;
+top: 401px;
+
+
+
+/* 無公休日 / 營業時間：09:00~21:00 */
+
+position: absolute;
+width: 364px;
+height: 13px;
+left: 660px;
+top: 405px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 160%;
+/* or 22px */
+display: flex;
+align-items: center;
+
+color: #C2A014;
+
+
+
+/* Group 38 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 630px;
+top: 401px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.5%;
+right: 45.83%;
+top: 50.12%;
+bottom: 47.38%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.52%;
+right: 45.86%;
+top: 50.92%;
+bottom: 49.08%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.76%;
+right: 46.86%;
+top: 51.45%;
+bottom: 47.93%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.14%;
+right: 46.43%;
+top: 51.44%;
+bottom: 47.92%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.53%;
+right: 46.08%;
+top: 51.44%;
+bottom: 47.93%;
+
+background: #000000;
+
+
+/* Group 47 */
+
+position: absolute;
+width: 454px;
+height: 102px;
+left: 630px;
+top: 233px;
+
+
+
+/* 台北101 */
+
+position: absolute;
+width: 454px;
+height: 40px;
+left: 630px;
+top: 233px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* Group 46 */
+
+position: absolute;
+width: 441px;
+height: 57px;
+left: 636px;
+top: 278px;
+
+
+
+/* 高聳的地標性摩天大樓，設有商店、餐廳，以及位於 89 樓的觀景台。 */
+
+position: absolute;
+width: 440px;
+height: 40px;
+left: 637px;
+top: 278px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 160%;
+/* or 22px */
+
+color: #4D4D4D;
+
+
+
+/* Union */
+
+position: absolute;
+width: 34.21px;
+height: 7.3px;
+left: 1024px;
+top: 308px;
+
+background: #C4C4C4;
+
+
+/* ···MORE */
+
+position: absolute;
+width: 37.12px;
+height: 11.9px;
+left: 1023.28px;
+top: 304.21px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 150%;
+/* or 15px */
+
+color: #C4C4C4;
+
+
+
+/* Line 3 */
+
+position: absolute;
+width: 440px;
+height: 0px;
+left: 636px;
+top: 335px;
+
+border: 0.5px solid #4D4D4D;
+
+
+/* T2 */
+
+position: absolute;
+width: 830px;
+height: 250px;
+left: 290px;
+top: 470px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 250px;
+height: 830px;
+left: 1120px;
+top: 470px;
+
+background: #FFFFFF;
+border-radius: 20px;
+transform: rotate(90deg);
+
+
+/* Mask Group */
+
+position: absolute;
+width: 300px;
+height: 220px;
+left: 310px;
+top: 485px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 220px;
+height: 300px;
+left: 610px;
+top: 485px;
+
+background: #F2D41A;
+border-radius: 20px;
+transform: rotate(90deg);
+
+
+/* shutterstock_75426781 1 */
+
+position: absolute;
+width: 336px;
+height: 224px;
+left: 294px;
+top: 485px;
+
+background: url(shutterstock_75426781.jpg);
+
+
+/* 分類＃ */
+
+position: absolute;
+width: 166px;
+height: 25px;
+left: 428px;
+top: 668px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 80px;
+height: 25px;
+left: 514px;
+top: 668px;
+
+background: #C6A623;
+border: 1px solid #C6A623;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 全日開放 */
+
+position: absolute;
+width: 59.4px;
+height: 15.58px;
+left: 524px;
+top: 673px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 80px;
+height: 25px;
+left: 428px;
+top: 668px;
+
+background: #C6A623;
+border: 1px solid #C6A623;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 全日開放 */
+
+position: absolute;
+width: 59.4px;
+height: 15.58px;
+left: 438px;
+top: 673px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 48 */
+
+position: absolute;
+width: 454px;
+height: 188px;
+left: 630px;
+top: 503px;
+
+
+
+/* Group 45 */
+
+position: absolute;
+width: 451px;
+height: 35px;
+left: 630px;
+top: 623px;
+
+
+
+/* 100台北市中正區中山南路21號 */
+
+position: absolute;
+width: 421px;
+height: 35px;
+left: 660px;
+top: 623px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 160%;
+/* or 22px */
+display: flex;
+align-items: center;
+
+color: #C2A014;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 20px;
+height: 27.3px;
+left: 630px;
+top: 627px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.5%;
+right: 45.83%;
+top: 78.38%;
+bottom: 18.21%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.95%;
+right: 46.28%;
+top: 79.11%;
+bottom: 19.73%;
+
+border: 2px solid #000000;
+
+
+/* Group 44 */
+
+position: absolute;
+width: 394px;
+height: 20px;
+left: 630px;
+top: 671px;
+
+
+
+/* 無公休日 / 營業時間：09:00~21:00 */
+
+position: absolute;
+width: 364px;
+height: 13px;
+left: 660px;
+top: 675px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 160%;
+/* or 22px */
+display: flex;
+align-items: center;
+
+color: #C2A014;
+
+
+
+/* Group 38 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 630px;
+top: 671px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 52.5%;
+right: 45.83%;
+top: 83.88%;
+bottom: 13.62%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.52%;
+right: 45.86%;
+top: 84.67%;
+bottom: 15.33%;
+
+border: 2px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.76%;
+right: 46.86%;
+top: 85.2%;
+bottom: 14.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.14%;
+right: 46.43%;
+top: 85.19%;
+bottom: 14.17%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.53%;
+right: 46.08%;
+top: 85.19%;
+bottom: 14.18%;
+
+background: #000000;
+
+
+/* Group 47 */
+
+position: absolute;
+width: 454px;
+height: 102px;
+left: 630px;
+top: 503px;
+
+
+
+/* 中正紀念堂 */
+
+position: absolute;
+width: 454px;
+height: 40px;
+left: 630px;
+top: 503px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* Group 46 */
+
+position: absolute;
+width: 441px;
+height: 57px;
+left: 636px;
+top: 548px;
+
+
+
+/* 中正紀念堂是位於中華民國臺北市中正區的國家紀念建築，係中華民國政府為紀念已故前中華民國總統兼中國國民黨總裁蔣中正而興 */
+
+position: absolute;
+width: 440px;
+height: 40px;
+left: 637px;
+top: 548px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 160%;
+/* or 22px */
+
+color: #4D4D4D;
+
+
+
+/* Union */
+
+position: absolute;
+width: 34.21px;
+height: 7.3px;
+left: 1024px;
+top: 578px;
+
+background: #C4C4C4;
+
+
+/* ···MORE */
+
+position: absolute;
+width: 37.12px;
+height: 11.9px;
+left: 1023.28px;
+top: 574.21px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 150%;
+/* or 15px */
+
+color: #C4C4C4;
+
+
+
+/* Line 3 */
+
+position: absolute;
+width: 440px;
+height: 0px;
+left: 636px;
+top: 605px;
+
+border: 0.5px solid #4D4D4D;
+
+
+/* top button */
+
+position: absolute;
+left: 94.5%;
+right: 1.33%;
+top: 34.88%;
+bottom: 58.88%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #C2A014;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.88%;
+right: 25.9%;
+top: 19.72%;
+bottom: 53.61%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.24%;
+right: 59.44%;
+top: 55.69%;
+bottom: 25.16%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.06%;
+right: 40%;
+top: 55.12%;
+bottom: 24.61%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.36%;
+right: 23.26%;
+top: 55.63%;
+bottom: 25.19%;
+
+background: #FFFFFF;
+
+
+/* 頁次 */
+
+position: absolute;
+width: 253.33px;
+height: 40px;
+left: 842px;
+top: 741px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 91.28%;
+right: 6.71%;
+top: 93.62%;
+bottom: 4.71%;
+
+background: #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 842px;
+top: 741px;
+
+background: #91780F;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 887px;
+top: 741px;
+
+background: #C2A014;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 932px;
+top: 741px;
+
+background: #C2A014;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 977px;
+top: 741px;
+
+background: #C2A014;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1022px;
+top: 741px;
+
+background: #C2A014;
+
+
+/* 1 */
+
+position: absolute;
+width: 30px;
+height: 20px;
+left: 847px;
+top: 751px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 2 */
+
+position: absolute;
+width: 30px;
+height: 20px;
+left: 892px;
+top: 751px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 30px;
+height: 20px;
+left: 937px;
+top: 751px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 4 */
+
+position: absolute;
+width: 30px;
+height: 20px;
+left: 982px;
+top: 751px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 30px;
+height: 20px;
+left: 1027px;
+top: 751px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 篩選頁 */
+
+position: absolute;
+width: 220px;
+height: 560px;
+left: 48px;
+top: 200px;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 220px;
+height: 560px;
+left: 48px;
+top: 200px;
+
+background: #C2A014;
+border-radius: 20px;
+
+
+/* Group 59 */
+
+position: absolute;
+width: 161px;
+height: 371.65px;
+left: 77px;
+top: 296px;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 41px;
+height: 14px;
+left: 77px;
+top: 430px;
+
+
+
+/* Polygon 2 */
+
+position: absolute;
+width: 10px;
+height: 8px;
+left: 118px;
+top: 441px;
+
+background: #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* 時間 */
+
+position: absolute;
+width: 24px;
+height: 14px;
+left: 77px;
+top: 430px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 41px;
+height: 14px;
+left: 77px;
+top: 520px;
+
+
+
+/* 類型 */
+
+position: absolute;
+width: 24px;
+height: 14px;
+left: 77px;
+top: 520px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Polygon 2 */
+
+position: absolute;
+width: 10px;
+height: 8px;
+left: 118px;
+top: 531px;
+
+background: #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Group 9 */
+
+position: absolute;
+width: 41px;
+height: 14px;
+left: 77px;
+top: 296px;
+
+
+
+/* Polygon 3 */
+
+position: absolute;
+width: 10px;
+height: 8px;
+left: 118px;
+top: 307px;
+
+background: #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* 地區 */
+
+position: absolute;
+width: 24px;
+height: 14px;
+left: 77px;
+top: 296px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 43 */
+
+position: absolute;
+width: 160.48px;
+height: 83.65px;
+left: 77px;
+top: 322px;
+
+
+
+/* Group 30 */
+
+position: absolute;
+width: 160.48px;
+height: 83.65px;
+left: 77px;
+top: 322px;
+
+
+
+/* Group 26 */
+
+position: absolute;
+width: 160.48px;
+height: 17.65px;
+left: 77px;
+top: 322px;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 322px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 322px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 中正區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 88px;
+top: 325px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #C2A014;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 322px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 322px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 大同區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 144px;
+top: 325px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #C2A014;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 322px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 322px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 中山區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 200px;
+top: 325px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 27 */
+
+position: absolute;
+width: 160.48px;
+height: 17.65px;
+left: 77px;
+top: 344px;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 344px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 344px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 松山區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 88px;
+top: 347px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 344px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 344px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 大安區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 144px;
+top: 347px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 344px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 344px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 萬華區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 200px;
+top: 347px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 28 */
+
+position: absolute;
+width: 160.48px;
+height: 17.65px;
+left: 77px;
+top: 366px;
+
+
+
+/* Group 20 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 366px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 366px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 信義區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 88px;
+top: 369px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 366px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 366px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 士林區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 144px;
+top: 369px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 22 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 366px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 366px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 北投區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 200px;
+top: 369px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 29 */
+
+position: absolute;
+width: 160.48px;
+height: 17.65px;
+left: 77px;
+top: 388px;
+
+
+
+/* Group 23 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 388px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 388px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 內湖區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 88px;
+top: 391px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 388px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 388px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 南港區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 144px;
+top: 391px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 25 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 388px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 388px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 文山區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 200px;
+top: 391px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 34 */
+
+position: absolute;
+width: 160.48px;
+height: 17.65px;
+left: 77px;
+top: 650px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 160.48px;
+height: 17.65px;
+left: 77px;
+top: 650px;
+
+background: #91780F;
+border: 1px solid #91780F;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 清除全部 */
+
+position: absolute;
+width: 89.37px;
+height: 11px;
+left: 113px;
+top: 653px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 35 */
+
+position: absolute;
+width: 160.48px;
+height: 17.65px;
+left: 77px;
+top: 626px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 160.48px;
+height: 17.65px;
+left: 77px;
+top: 626px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 送出查詢 */
+
+position: absolute;
+width: 89.37px;
+height: 11px;
+left: 113px;
+top: 629px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #C2A014;
+
+
+
+/* Group 42 */
+
+position: absolute;
+width: 160.48px;
+height: 61.65px;
+left: 77px;
+top: 546px;
+
+
+
+/* Group 26 */
+
+position: absolute;
+width: 160.48px;
+height: 17.65px;
+left: 77px;
+top: 546px;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 546px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 546px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 博物館 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 88px;
+top: 549px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #C2A014;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 546px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 546px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 風景區 */
+
+position: absolute;
+width: 27px;
+height: 11px;
+left: 144px;
+top: 549px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #C2A014;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 546px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 546px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 古蹟 */
+
+position: absolute;
+width: 18px;
+height: 11px;
+left: 204px;
+top: 549px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 27 */
+
+position: absolute;
+width: 160.48px;
+height: 17.65px;
+left: 77px;
+top: 568px;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 568px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 568px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 夜市 */
+
+position: absolute;
+width: 18px;
+height: 11px;
+left: 92px;
+top: 571px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 18 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 568px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 568px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 商圈 */
+
+position: absolute;
+width: 18px;
+height: 11px;
+left: 148px;
+top: 571px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 19 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 568px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 568px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 宗教場所 */
+
+position: absolute;
+width: 36px;
+height: 11px;
+left: 195px;
+top: 571px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 28 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 590px;
+
+
+
+/* Group 20 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 590px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 590px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 藝文場所 */
+
+position: absolute;
+width: 36px;
+height: 11px;
+left: 83px;
+top: 593px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 161px;
+height: 0px;
+left: 77px;
+top: 418px;
+
+border: 0.5px solid #FFFFFF;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 161px;
+height: 0px;
+left: 77px;
+top: 508px;
+
+border: 0.5px solid #FFFFFF;
+
+
+/* Group 41 */
+
+position: absolute;
+width: 160.48px;
+height: 39.65px;
+left: 77px;
+top: 456px;
+
+
+
+/* Group 37 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 478px;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 478px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 478px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 固定公休 */
+
+position: absolute;
+width: 36px;
+height: 11px;
+left: 83px;
+top: 481px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 31 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 456px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 77px;
+top: 456px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 全日開放 */
+
+position: absolute;
+width: 36px;
+height: 11px;
+left: 83px;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 32 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 456px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 133px;
+top: 456px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 假日開放 */
+
+position: absolute;
+width: 36px;
+height: 11px;
+left: 139px;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Group 33 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 456px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 48.48px;
+height: 17.65px;
+left: 189px;
+top: 456px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 平日開放 */
+
+position: absolute;
+width: 36px;
+height: 11px;
+left: 195px;
+top: 459px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+display: flex;
+align-items: flex-end;
+text-align: justify;
+
+color: #C2A014;
+
+
+
+/* Group 60 */
+
+position: absolute;
+width: 160.48px;
+height: 30px;
+left: 78px;
+top: 243px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 160.48px;
+height: 30px;
+left: 78px;
+top: 243px;
+
+background: #91780F;
+border: 1px solid #91780F;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* 篩選條件 */
+
+position: absolute;
+width: 100px;
+height: 18px;
+left: 108px;
+top: 250px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* logo */
+
+position: absolute;
+width: 164px;
+height: 86px;
+left: 63px;
+top: 42px;
+
+
+
+/* logo */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F2C719;
+
+
+/* Frame */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.01%;
+bottom: 0.01%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: -0.01%;
+bottom: -0.01%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.39%;
+right: 0%;
+top: -0.01%;
+bottom: -0.01%;
+
+background: #F2D41A;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.7%;
+right: 19.1%;
+top: 10.86%;
+bottom: 67.65%;
+
+background: #F2D41A;
+
+
+/* Vector */
+
+position: absolute;
+left: 81.36%;
+right: 5.28%;
+top: 72.18%;
+bottom: 2.21%;
+
+background: #F2D41A;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.39%;
+right: 28.46%;
+top: 80.91%;
+bottom: 11.73%;
+
+background: #F2D41A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 83.91%;
+top: 62.77%;
+bottom: 28.74%;
+
+background: #F2D41A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 83.91%;
+top: 44.36%;
+bottom: 47.15%;
+
+background: #F2D41A;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 83.91%;
+top: 81.16%;
+bottom: 10.35%;
+
+background: #F2D41A;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.19%;
+right: 54.21%;
+top: 4.36%;
+bottom: 0%;
+
+background: #F2D41A;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.76%;
+right: 61.91%;
+top: 34.53%;
+bottom: 16.03%;
+
+background: #F2D41A;
+
+
+/* 景點導覽 */
+
+position: absolute;
+width: 166.05px;
+height: 65.99px;
+left: 970px;
+top: 71px;
+
+
+
+/* Group 85 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #F2C719;
+box-sizing: border-box;
+
+
+/* 景點導覽 */
+
+position: absolute;
+left: 42.76%;
+right: 13.88%;
+top: 37.89%;
+bottom: 30.29%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #F2C719;
+
+
+
+/* 美食住宿 */
+
+position: absolute;
+width: 166.05px;
+height: 65.99px;
+left: 814px;
+top: 71px;
+
+
+
+/* Group 85 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #62BACD;
+box-sizing: border-box;
+
+
+/* 美食住宿 */
+
+position: absolute;
+left: 42.76%;
+right: 13.88%;
+top: 37.89%;
+bottom: 30.29%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #62BACD;
+
+
+
+/* logo */
+
+position: absolute;
+left: nan%;
+right: nan%;
+top: nan%;
+bottom: nan%;
+
+background: #FFFFFF;
+transform: matrix(nan, nan, nan, nan, -nan, -nan);
+
+
+/* 交通路線 */
+
+position: absolute;
+width: 166.05px;
+height: 65.99px;
+left: 658px;
+top: 71px;
+
+
+
+/* Group 85 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #CD6262;
+box-sizing: border-box;
+
+
+/* 交通路線 */
+
+position: absolute;
+left: 42.76%;
+right: 13.88%;
+top: 37.89%;
+bottom: 30.29%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #CD6262;
+
+
+
+/* d-關鍵字 */
+
+position: absolute;
+width: 200px;
+height: 30px;
+left: 410px;
+top: 99px;
+
+
+
+/* 關鍵字 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* Union (Stroke) */
+
+position: absolute;
+left: 83%;
+right: 9.23%;
+top: 45.91%;
+bottom: -17.48%;
+
+background: #C4C4C4;
+transform: rotate(-45deg);
+
+
+/* 關鍵字 */
+
+position: absolute;
+left: 7.5%;
+right: 17.5%;
+top: 16.67%;
+bottom: 13.33%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #C4C4C4;
+
+
+
+/* d-城市下拉選單 */
+
+position: absolute;
+left: 22%;
+right: 66.33%;
+top: 12.38%;
+bottom: 83.88%;
+
+
+
+/* Group 68 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #91780F;
+border: 1px solid #91780F;
+box-sizing: border-box;
+border-radius: 20px;
+
+
+/* Group 67 */
+
+position: absolute;
+left: 13.57%;
+right: 13.57%;
+top: 16.67%;
+bottom: 13.33%;
+
+
+
+/* Polygon 1 */
+
+position: absolute;
+left: 86.43%;
+right: 2.86%;
+top: 73.33%;
+bottom: -13.33%;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+transform: rotate(-180deg);
+
+
+/* 選擇縣市 */
+
+position: absolute;
+left: 13.57%;
+right: 31.43%;
+top: 16.67%;
+bottom: 13.33%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
